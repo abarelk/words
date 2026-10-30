@@ -1,0 +1,14 @@
+{
+  "name": "단어 트레이너",
+  "short_name": "단어",
+  "description": "영어 단어 암기 도우미",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#2f5bd3",
+  "lang": "ko",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
